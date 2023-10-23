@@ -1,2 +1,2 @@
 # cloning-for-homework
-cloninga repo for homework
+cloning a repo for homework
